@@ -1,9 +1,0 @@
-{
-    "emmet.sybtaxProfiles":{
-        "javascript": "jsx",
-    },
-    "emmet.includeLanguages":{
-        "javascript": "javascriptreact",
-    }
-   
-}
