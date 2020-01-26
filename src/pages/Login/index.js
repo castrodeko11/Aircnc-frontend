@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import api  from '../../services/api'
+import api  from '../../services/api';
 
 export default function Login({ history }){
     const [email,setEmail] = useState('');
@@ -20,6 +20,7 @@ export default function Login({ history }){
 
     return (
         <>
+        
         <p> 
         Ofereça <strong>spots</strong> para os programadres e contre <strong>talentos</strong>para sua empresa
         </p>
