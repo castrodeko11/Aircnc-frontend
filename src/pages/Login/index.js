@@ -22,7 +22,7 @@ export default function Login({ history }){
         <>
         
         <p> 
-        Ofereça <strong>spots</strong> para os programadres e encontre <strong>talentos</strong> para sua empresa
+        Ofereça <strong>spots</strong> para os programadores e encontre <strong>talentos</strong> para sua empresa
         </p>
 
       <form onSubmit={handleSubmit}>
