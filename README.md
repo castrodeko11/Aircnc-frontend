@@ -4,7 +4,7 @@
 
 <h4 align="center">
   ☕ Code and coffee <br>
-  https://deploy-aircnc-frontend.herokuapp.com/
+  https://deploy-aircnc.netlify.app/
   
 </h4>
 
